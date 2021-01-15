@@ -76,6 +76,13 @@ If st crashes when viewing emojis, install [libxft-bgra](https://aur.archlinux.o
 
 Note that some special characters may appear truncated if too wide. You might want to manually set your prefered emoji/special character font to a lower size in the `config.h` file to avoid this. By default, JoyPixels is used at a smaller size than the usual text.
 
+## My contributions
+
+Added scripts 'openaudiocmd','openvideocmd' to play mp3 audio and video on a forked mpv instance;  
+Added script 'openimagecmd' to open images using feh.  
+
+Comments and suggestions can be sent to <matheuslemosf@protonmail.com>
+
 ## Contact
 
 - Luke Smith <luke@lukesmith.xyz>
